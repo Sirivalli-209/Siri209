@@ -1,0 +1,28 @@
+h1{
+    color: red;
+    text-align: center;
+    text-size-adjust: 100%;
+}
+h2{
+   color: green ;
+   text-align: center;
+}
+body{
+    text-align: left;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 20%;
+    margin-right: 30%;
+}
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/book-blue-background-reading-education-concept-knowledge-learning-reading-books-book-pages-close-up-knowledge-book-226493158.jpg") ;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+@media screen and (min-width:550px){
+    body{
+        background-image:url("https://thumbs.dreamstime.com/z/book-blue-background-reading-education-concept-knowledge-learning-reading-books-book-pages-close-up-knowledge-book-226493158.jpg") ;
+        background-position: cover;
+        background-repeat: no-repeat;
+    }
+}
