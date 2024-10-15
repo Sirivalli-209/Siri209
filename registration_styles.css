@@ -1,0 +1,20 @@
+
+h1{
+    text-decoration-line:underline;
+}
+.required {
+    color: red;
+    font-weight: bold;
+}
+body{
+    background-image: url("https://img.lovepik.com/background/20211021/large/lovepik-abstract-background-image_400201514.jpg");
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+@media screen and (min-width:550px){
+    body{
+        background-image:url("https://img.lovepik.com/background/20211021/large/lovepik-abstract-background-image_400201514.jpg");
+        background-position: cover;
+        background-repeat: no-repeat;
+    }
+}
