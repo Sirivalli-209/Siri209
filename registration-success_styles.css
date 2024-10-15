@@ -1,0 +1,20 @@
+h2{
+    text-align:center;
+}
+p{
+    text-align:center;
+}
+body{
+    margin-top: 20%;
+    margin-bottom: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+body{
+    background-color: rgb(11,134,235);
+}
+@media screen and (min-width:550px){
+    body{
+        background-color: rgb(152, 92, 189);
+    }
+}
